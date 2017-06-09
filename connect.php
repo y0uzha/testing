@@ -2,7 +2,7 @@
 $server = "localhost:3306";
 $userdb = "";
 $passdb = "";
-$dbname = "cb_ristek";
+$dbname = "testing db";
 
 // Create connection
 $conn = new mysqli($server, $userdb, $passdb, $dbname);
