@@ -1,7 +1,7 @@
 <?php
 $server = "localhost:3306";
-$userdb = "root";
-$passdb = "root";
+$userdb = "";
+$passdb = "";
 $dbname = "cb_ristek";
 
 // Create connection
