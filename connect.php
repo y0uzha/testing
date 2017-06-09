@@ -2,7 +2,7 @@
 $server = "localhost:3306";
 $userdb = "";
 $passdb = "";
-$dbname = "testing db";
+$dbname = "testing_db";
 
 // Create connection
 $conn = new mysqli($server, $userdb, $passdb, $dbname);
